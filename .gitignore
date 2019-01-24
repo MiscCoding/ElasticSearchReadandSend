@@ -1,0 +1,10 @@
+json/
+log/
+C-TEX*.*
+*.zip
+*.log
+*.xml
+*.pyc
+*.pdf
+*.xsd
+*.csv
